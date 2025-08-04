@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card-body .text-decoration-line-through {
+    color: #6c757d;
+}
+
+.task-completed {
+    background-color: #e9f7ef; /* Un verde claro y suave */
+}
